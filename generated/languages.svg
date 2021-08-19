@@ -9,9 +9,8 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: white;
-  stroke: rgb(225, 228, 232);
-  stroke-width: 1px;
+  fill: rgb(26, 27, 39);
+  stroke-width: 0px;
   rx: 6px;
   ry: 6px;
 }
@@ -64,7 +63,7 @@ div.ellipsis {
 }
 
 .octicon {
-  fill: rgb(88, 96, 105);
+  fill: rgb(190, 144, 242);
   margin-right: 0.5ch;
   vertical-align: top;
 }
