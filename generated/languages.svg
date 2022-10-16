@@ -103,7 +103,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #b07219;width: 98.197%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 1.447%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 0.144%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.137%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.065%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.007%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.002%;" class="progress-item"></span>
+<span style="background-color: #b07219;width: 98.204%;" class="progress-item"></span><span style="background-color: #A97BFF;width: 1.441%;" class="progress-item"></span><span style="background-color: #00ADD8;width: 0.143%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.136%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.065%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.007%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.002%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -124,7 +124,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Kotlin</span>
-<span class="percent">1.45%</span>
+<span class="percent">1.44%</span>
 </li>
 
 
